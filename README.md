@@ -31,11 +31,11 @@ A simple, interactive Wordle clone built with HTML, CSS, and JavaScript. Unlike 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/katiesharp/Wordle-Clone.git
+   git clone https://github.com/katiesharp/MyWordle.git
    ```
 2. Navigate to the project folder:
    ```sh
-   cd Wordle-Clone
+   cd MyWordle
    ```
 3. Open `index.html` in a browser.
 
